@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Uros from Belgrade<br><br>- 🔭 I’m working as a quality assurance engineer<br>- 📚 I'm currently learning Selenium and Rest Assured</p>
+<p align="left">I'm Uros from Belgrade<br><br>- 🔭 I’m working as a QA Engineer<br>- 📚 I'm currently learning Selenium and Rest Assured</p>
 
 ###
 
